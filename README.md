@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Bhanderi</h1>
 
 <p align="center">
-  <i>A passionate DevOps Engineer | SRE | Machine Learning Engineer from Canada</i>
+  <i>A passionate DevOps Engineer | SRE | AI / Machine Learning Engineer from Canada</i>
   <br>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
