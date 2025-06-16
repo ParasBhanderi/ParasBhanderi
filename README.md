@@ -68,7 +68,7 @@
 ## 🏅 Certificates :
 
 <p align="center">
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/06B36BCE-005A-4BA2-A545-348CA691304D_4_5005_c.jpeg" width="200"/>
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/06B36BCE-005A-4BA2-A545-348CA691304D_4_5005_c.jpeg" width="100"/>
   <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/65F88ECE-F90E-429B-9A7E-06E722305B90.jpeg" width="200"/>
   <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/B53DB3D9-AD4F-44E0-BDDB-F6C234118F23.jpeg" width="200"/>
 </p>
