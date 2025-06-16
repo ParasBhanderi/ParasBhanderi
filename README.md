@@ -74,6 +74,27 @@
 </p>
 
 
+
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParasBhanderi&show_icons=true&theme=radical" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasBhanderi&layout=compact&theme=radical" width="350"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasBhanderi&theme=radical&hide_border=true" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-graph.ewal.dev?username=ParasBhanderi&theme=github-dark-dimmed" width="700"/>
+</p>
+
+
 <p align="center">
   <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/D7419B7D-EAE6-4406-9114-55E485B5B6DB_1_105_c.jpeg" width="200"/>
   <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/E745B0B3-699F-469B-B10E-2CC65633820C.jpeg" width="200"/>
