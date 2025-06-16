@@ -62,3 +62,19 @@
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/DYNATRACE-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
 </p>
+
+
+
+## 🏅 Certificates :
+
+<p align="center">
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/06B36BCE-005A-4BA2-A545-348CA691304D_4_5005_c.jpeg" width="200"/>
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/65F88ECE-F90E-429B-9A7E-06E722305B90.jpeg" width="200"/>
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/B53DB3D9-AD4F-44E0-BDDB-F6C234118F23.jpeg" width="200"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/D7419B7D-EAE6-4406-9114-55E485B5B6DB_1_105_c.jpeg" width="100"/>
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/E745B0B3-699F-469B-B10E-2CC65633820C.jpeg" width="100"/>
+</p>
