@@ -10,6 +10,13 @@
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact:  I'm a problem-solver and I love automating everything!
 
+## My passions are:
+💻 DevOps, AI/ML, Big Data Architecture.
+🛠️ Building software from zero to one.
+🐍 Python/Shell.
+🚀 Initiate project and launch software.
+
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
