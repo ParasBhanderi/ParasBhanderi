@@ -5,11 +5,10 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **AI App Development**
-- 🌱 I’m learning **Swift, iOS, and MLOps**
-- 💬 Ask me about **DevOps, Azure, LLMs, and Python**
-- 📫 How to reach me: [your email or link]
-- ⚡ Fun fact: I love automating everything!
+- 🔭 I’m currently working on **DevOps / MLOps **
+- 🌱 I’m learning **Large Language Models, Gen AI, and MLOps**
+- 🥅 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact:  I'm a problem-solver and I love automating everything!
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
