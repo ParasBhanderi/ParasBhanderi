@@ -75,6 +75,12 @@
 
 
 
+<p align="center">
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/D7419B7D-EAE6-4406-9114-55E485B5B6DB_1_105_c.jpeg" width="200"/>
+  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/E745B0B3-699F-469B-B10E-2CC65633820C.jpeg" width="200"/>
+</p>
+
+
 
 ## 📊 GitHub Stats:
 
@@ -95,7 +101,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/D7419B7D-EAE6-4406-9114-55E485B5B6DB_1_105_c.jpeg" width="200"/>
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/E745B0B3-699F-469B-B10E-2CC65633820C.jpeg" width="200"/>
-</p>
+
