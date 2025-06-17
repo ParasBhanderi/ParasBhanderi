@@ -26,7 +26,7 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-bhanderi-b1abba165/)]( https://www.linkedin.com/in/paras-bhanderi-b1abba165/)
 
 ---
 
