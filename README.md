@@ -88,11 +88,16 @@ I enjoy working close to production systems where **reliability, performance, an
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasBhanderi&show_icons=true&theme=tokyonight" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasBhanderi&theme=tokyonight&hide_border=true" width="420"/>
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api
+       ?username=ParasBhanderi
+       &show_icons=true
+       &rank_icon=github
+       &hide_border=true
+       &bg_color=0D1117
+       &title_color=22c55e
+       &text_color=c9d1d9
+       &icon_color=22c55e" />
 </p>
 
 ---
