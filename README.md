@@ -88,7 +88,7 @@ I enjoy working close to production systems where **reliability, performance, an
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170"
+  <img height=170
        src="https://github-readme-stats.vercel.app/api
        ?username=ParasBhanderi
        &show_icons=true
