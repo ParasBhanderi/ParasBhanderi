@@ -1,104 +1,103 @@
-<h1 align="center">Hi 👋, I'm Paras Bhanderi</h1>
+<h1 align="center">Paras Bhanderi</h1>
 
 <p align="center">
-  <i>A passionate DevOps Engineer | SRE | AI / Machine Learning Engineer from Canada</i>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <b>Site Reliability Engineer | DevOps Engineer | Cloud Platform Engineer</b><br/>
+  AWS • Kubernetes • Terraform • Observability • Reliability Engineering
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paras-bhanderi-b1abba165/">LinkedIn</a> •
+  <a href="https://github.com/ParasBhanderi">GitHub</a> •
+  📍 Bengaluru, India
 </p>
 
 ---
 
-#### Here are a few things you should know about me:
-- 🌱 I'm currently learning [Gen AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence), MLOps, Large Language Models.
-- 🤝 I'm looking to collaborate with other Developers.
-- 🧠 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I'm a problem-solver and I love automating everything.
+## 👋 About Me
+
+I am a **Site Reliability / DevOps Engineer** with experience designing, automating, and operating **high-availability cloud platforms** across AWS, Azure, and Kubernetes environments.
+
+My focus areas include:
+- Building **reliable, scalable infrastructure**
+- Designing **observability and incident response practices**
+- Automating everything through **Infrastructure as Code**
+- Enabling **safe and repeatable deployments**
+
+I enjoy working close to production systems where **reliability, performance, and security matter**.
 
 ---
 
-### My passions are:
-- 💻 DevOps, AI/ML, Big Data Architecture.
-- 🛠️ Building software from zero to one.
-- 🐍 Python/Shell.
-- 🚀 Initiate project and launch software.
+## 🔧 Core Technical Expertise
+
+### 🧠 Site Reliability Engineering
+- SLI / SLO / SLA definition & tracking  
+- Incident response, RCA & post-incident reviews  
+- Capacity planning & performance tuning  
+- High availability & fault tolerance  
+- Resilient system design  
+
+### ☁️ Cloud & Platform Engineering
+- **AWS (Primary)**, Azure, Google Cloud Platform (GCP)  
+- Kubernetes (EKS / AKS), Docker  
+- Microservices & distributed systems  
+
+### 📊 Observability & Monitoring
+- Prometheus, Grafana  
+- Dynatrace  
+- Azure Monitor, Log Analytics  
+- Elasticsearch (ELK)  
+
+### ⚙️ Automation, CI/CD & IaC
+- Terraform, Ansible, Helm  
+- GitHub Actions, Azure DevOps  
+- Argo CD (GitOps)  
+
+### 💻 Programming & Scripting
+- Python (automation & tooling)  
+- Golang  
+- Bash, PowerShell  
 
 ---
 
-### Connect with me:
+## 📂 Highlighted Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paras-bhanderi-b1abba165/)]( https://www.linkedin.com/in/paras-bhanderi-b1abba165/)
+- **AWS EKS Platform with Terraform**  
+  Production-grade EKS architecture using Terraform, remote state, IAM (IRSA), and multi-AZ design.
+
+- **SRE Observability Stack**  
+  Prometheus, Grafana, alerting rules, and SLI/SLO-focused dashboards for Kubernetes workloads.
+
+- **AWS DevOps Web Application**  
+  CI/CD pipelines, rolling deployments, health checks, and release automation on EC2.
+
+- **Infrastructure as Code (Terraform)**  
+  Secure AWS S3 provisioning with remote state, locking, and best practices.
 
 ---
 
-### Languages and Tools:
+## 🏅 Certifications
 
-### Languages and Tools:
+- Microsoft Certified: **DevOps Engineer Expert (AZ-400)**
+- Microsoft Certified: **Azure Administrator (AZ-104)**
+- Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
+- **Certified Kubernetes Administrator (CKA)**
+- **HashiCorp Terraform Associate**
 
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BIGQUERY-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APACHE%20KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DYNATRACE-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
-</p>
+---
 
-
-
-## 🏅 Certificates :
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/06B36BCE-005A-4BA2-A545-348CA691304D_4_5005_c.jpeg" width="100"/>
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/65F88ECE-F90E-429B-9A7E-06E722305B90.jpeg" width="200"/>
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/B53DB3D9-AD4F-44E0-BDDB-F6C234118F23.jpeg" width="200"/>
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/D7419B7D-EAE6-4406-9114-55E485B5B6DB_1_105_c.jpeg" width="200"/>
-  <img src="https://github.com/ParasBhanderi/ParasBhanderi/blob/main/assests/E745B0B3-699F-469B-B10E-2CC65633820C.jpeg" width="200"/>
-</p>
-
-
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasBhanderi&show_icons=true&theme=radical" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParasBhanderi&show_icons=true&theme=radical" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasBhanderi&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasBhanderi&theme=radical&hide_border=true" width="450"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasBhanderi&theme=radical&hide_border=true" width="500"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-contribution-graph.ewal.dev?username=ParasBhanderi&theme=github-dark-dimmed" width="700"/>
-</p>
+## 📫 Contact
 
-
-
+- LinkedIn: https://www.linkedin.com/in/paras-bhanderi-b1abba165/
+- Email: pbhanderi.ai@gmail.com
