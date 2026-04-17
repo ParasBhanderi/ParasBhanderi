@@ -1,7 +1,7 @@
 <h1 align="center">Paras Bhanderi</h1>
 
 <p align="center">
-  <b>Site Reliability Engineer | DevOps Engineer | Cloud Platform Engineer</b><br/>
+  <b>Senior Site Reliability Engineer | Senior DevOps Engineer | MLOps Engineer</b><br/>
   AWS • Kubernetes • Terraform • Observability • Reliability Engineering
 </p>
 
