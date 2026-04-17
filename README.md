@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Senior Site Reliability Engineer | Senior DevOps Engineer | MLOps Engineer</b><br/>
-  AWS • Kubernetes • Terraform • Observability • Reliability Engineering
 </p>
 
 <p align="center">
