@@ -1,7 +1,6 @@
 <h1 align="center">Paras Bhanderi</h1>
 
 <p align="center">
-  <b>Senior SRE | DevOps Engineer | AI Infrastructure & LLMOps Engineer</b><br/>
   Senior Site Reliability Engineer | Senior DevOps Engineer | MLOps Engineer
 </p>
 
